@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on foss.
 - 📫 How to reach me ishankumarbadpaga2000@gmail.com 
 - 😄 Pronouns: He
-- ⚡ Fun fact: loves to arm wrestle
+- ⚡ Fun fact: loves to arm wrestle.
 
 <!---
 Ishanbadpaga/Ishanbadpaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
